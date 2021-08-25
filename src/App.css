@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+}
+
+.Display{
+  background-color: blue;
+  padding-top: 20px;
+  height: 200px;
+  font-size: 10vw;
+  color: white;
+
+}
+button{
+  background-color: orange;
+  height: 5vh;
+  font-style: italic;
+}
+
+.Screen{
+  background-color:black;
+  color: white;
+  height: 200px;
+  font-size: 10vw;
+  padding-top: 20px;
+}
