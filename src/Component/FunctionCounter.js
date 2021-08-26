@@ -8,7 +8,7 @@ function FunctionCounter(){
         setNumber(number + 1)
     }
     function Decreasecount(){
-        setNumber(number + 1)
+        setNumber(number - 1)
     }
     return (
         <div>
